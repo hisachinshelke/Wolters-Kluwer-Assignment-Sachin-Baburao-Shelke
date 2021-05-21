@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Using Java 8 feature
+
 class PalindromeChecker {
 	static Scanner scan = new Scanner(System.in);	
 	
